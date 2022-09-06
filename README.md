@@ -6,9 +6,9 @@
  2. Click on "Register" 
  3. Fill required data 
  4. Click on  "Register" 
-              1. ###Add "response assertion":### Your registration completed
-              2. ###Add Listener "assertion results"### 
-              3. ###Add timer as "think time" ###       
+      1. ### Add "response assertion": Your registration completed
+      2. ### Add Listener "assertion results"
+      3. ### Add timer as "think time"      
  5. Search for "Mac"
  6. Select the 1st product 
  7. Click on "Add to Cart"
@@ -22,4 +22,7 @@
  
  ## Results ##
  ![image](https://user-images.githubusercontent.com/46643679/188708943-7978731b-659a-432d-b102-847b0a2d5f74.png)
+ 
+ ![image](https://user-images.githubusercontent.com/46643679/188709160-2d08b2b3-5890-4106-be13-f0b5b6ad0fbb.png)
+
 
