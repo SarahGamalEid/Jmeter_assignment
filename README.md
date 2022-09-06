@@ -18,7 +18,7 @@
  
  ## How to run script ##
  
- 1. change dictory of CSV file from "CSV Data Set Config" - CSV contains 5 emails for 5 number of users 
+ 	change directory of CSV file from "CSV Data Set Config" - CSV contains 5 emails for 5 users
  
  ## Results ##
  ![image](https://user-images.githubusercontent.com/46643679/188708943-7978731b-659a-432d-b102-847b0a2d5f74.png)
